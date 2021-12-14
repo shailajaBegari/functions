@@ -3,7 +3,7 @@ def sum_avg(num):
     sum=0
     count=0
     while i<3:
-        user=int(input("enter number:"))
+        user=int(input("enter the number:"))
         sum=sum+user
         count=count+1
         i+=1
